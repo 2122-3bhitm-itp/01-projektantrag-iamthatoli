@@ -14,8 +14,22 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
+== Projektantrag Oliver Schatzberger
 
 
-=== Header 2
+=== Kinoreservierungssystem
+Ich möchte gerne ein Projekt erstellen mit welchem man Plätze für Kinos reservieren kann. Ein Reservierungssystem mit GUI.
+
+
+=== Technologien
+* Java
+* JavaFX
+* Maven
+
+=== Funktion
+Der User soll einen Platz auswählen können auf einer Karte die in Kategorien untergeordnet ist. Er soll außerdem persönliche Daten angeben, anhand dieser wird dann der Preis berechnet.
+
+=== Motivation
+Ich möchte zum ersten Mal mit JavaFX arbeiten und so ein GUI erstellen.
+
 

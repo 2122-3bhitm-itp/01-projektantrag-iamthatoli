@@ -20,8 +20,10 @@ GIT_GLOBAL_USER_NAME=<your git - username>
 ```
 
 
-#### 2. Make an initial commit of your repo into the master branch
-
+#### 2. Make an initial commit of your repo into the main branch
+```shell
+git push origin main
+```
 
 
 #### 3. Start the generations of the gh-pages
