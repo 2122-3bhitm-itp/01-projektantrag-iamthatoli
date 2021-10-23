@@ -16,7 +16,7 @@ GIT_GLOBAL_USER_NAME=<your git - username>
 
 #### 1.3 make sure the docker is properly installed
 ```shell
-   sudo apt install docker-ce 
+sudo apt install docker-ce 
 ```
 
 
