@@ -1,6 +1,6 @@
-= My Project
-firstname lastname
-1.0.0, yyyy-mm-dd: Some notes
+= Project Proposal
+Oliver Schatzberger
+1.0.2, 2021-11-11: Notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -18,7 +18,7 @@ ifdef::backend-html5[]
 
 
 === Kinoreservierungssystem
-Ich möchte gerne ein Projekt erstellen mit welchem man Plätze für Kinos reservieren kann. Ein Reservierungssystem mit GUI.
+Ich möchte gerne ein Projekt erstellen mit welchem man Plätze für Kinos reservieren kann. Ein Reservierungssystem mit GUI. Es sollte dem User außerdem möglich sein extra Angebote zu buchen. 
 
 
 === Technologien
@@ -27,9 +27,9 @@ Ich möchte gerne ein Projekt erstellen mit welchem man Plätze für Kinos reser
 * Maven
 
 === Funktion
-Der User soll einen Platz auswählen können auf einer Karte die in Kategorien untergeordnet ist. Er soll außerdem persönliche Daten angeben, anhand dieser wird dann der Preis berechnet.
+Der User soll einen Platz auswählen können auf einer Karte die in Kategorien untergeordnet ist. Er soll außerdem persönliche Daten angeben, anhand dieser wird dann der Preis berechnet. Außerdem will ich eine Login Funktion einbauen für wiederkehrende Nutzer.
 
 === Motivation
-Ich möchte zum ersten Mal mit JavaFX arbeiten und so ein GUI erstellen.
+Ich möchte zum ersten Mal mit JavaFX arbeiten und so ein GUI erstellen. Ich will mich auch mit der Login Funktion beschäftigen um ein brauchbares System zu erstellen.
 
 
